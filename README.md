@@ -61,3 +61,7 @@ After execution of each instruction the terminal shows value of -
   - Registers from 0 to 15
 
 A data_out.mem file is made after execution of the code in the bin directory which contains the entire memory of 4000 bytes having instructions and data memory.
+
+## Built By
+- [Pratham Gupta](https://github.com/null97)
+- [Pratik Chhajer](https://github.com/Pratik-Chhajer)
